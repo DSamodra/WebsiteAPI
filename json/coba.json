@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "Samodra",
+        "umur": 21,
+        "nim": "1202170022",
+        "lulus": false,
+        "hobi": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "edi sutoyo",
+            "pembimbing2": "nurul"
+        }
+    }
+    ,
+    {
+        "nama": "Samodra",
+        "umur": 21,
+        "nim": "1202170022",
+        "lulus": false,
+        "hobi": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "edi sutoyo",
+            "pembimbing2": "nurul"
+        }
+    }
+]

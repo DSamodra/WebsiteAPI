@@ -1,0 +1,93 @@
+{
+    "menu":[
+        {
+            "nama": "samodra",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        }
+        ,
+        {
+            "nama": "Bambang",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        },
+        {
+            "nama": "dimas",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        },
+        {
+            "nama": "Kucing",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        },
+        {
+            "nama": "luna",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        },
+        {
+            "nama": "Neptune",
+            "umur": 21,
+            "nim": "1202170022",
+            "lulus": false,
+            "hobi": [
+                "coding",
+                "gaming"
+            ],
+            "pembimbing": {
+                "pembimbing1": "edi sutoyo",
+                "pembimbing2": "nurul"
+            }
+        }
+    ]
+    
+}
+
+
+ 
